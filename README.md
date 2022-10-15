@@ -1,2 +1,0 @@
-# Proyecto
- Proyecto Programación I
